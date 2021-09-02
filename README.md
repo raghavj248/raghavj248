@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Raghav Kumar Jha.
 - 👀 I’m interested in  Data Structures, Web Development & App Development.
 - 🌱 I’m currently learning Data Structures and C++ STL.
-- 💞️ I’m looking to collaborate on ...
 - 📫 mail me at raghavj248@gmail.com.
 
 <!---
